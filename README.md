@@ -13,7 +13,7 @@ This project is a virtual AI assistant, similar to Jarvis, designed to open basi
 ## Installation
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/virtual-ai-assistant.git
+    git clone https://github.com/purvagpt10/virtual-ai-assistant.git
     cd virtual-ai-assistant
     ```
 
